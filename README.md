@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack developer , Working on Baianat company ...<br>I'm Using Typescript as my main programing Language :<br>Front-end : Vuejs (Nuxtjs) - React(Nextjs) - Angular <br>Back-end : nodejs (express - nestjs ) - postgres - MongoDb<br>Nowadays I'm Learning Rust and Go lang 
+Full-Stack developer Using Typescript as main programming Language :<br>Front-end : Vuejs (Nuxtjs) - React(Nextjs) - Angular <br>Back-end : nodejs (express - nestjs ) - postgres - MongoDb<br>Nowadays I'm Learning Rust and Go 
 
 
 ## 🌐 Socials:
